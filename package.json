@@ -1,0 +1,7 @@
+{
+  "name": "epoch-time-converter",
+  "version": "1.0.0",
+  "description": "Conversion of time and date from human readable to unix timestamp and vice versa",
+  "main": "epoch.js",
+  "author": "vikram hegde <vikramhegde@58"
+}
